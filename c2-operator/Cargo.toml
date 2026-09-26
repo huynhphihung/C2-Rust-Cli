@@ -1,0 +1,14 @@
+[package]
+name = "c2-operator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+serde = {version = "1", features = ["derive"]}
+serde_json = "1"
+uuid = {version = "1", features = ["v4", "serde"]}
+color-eyre = "0.6.5"
+crossterm = "0.29.0"
+ratatui = "0.30.2"
+regex = "1.13.1"
