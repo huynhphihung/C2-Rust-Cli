@@ -8,7 +8,7 @@ pub struct Config {
 impl Config {
     pub fn new() -> Self {
         Self {
-            agent_addr: SocketAddr::new(IpAddr::V4(Ipv4Addr::LOCALHOST), 8888),
+            agent_addr: SocketAddr::new(IpAddr::V4(Ipv4Addr::UNSPECIFIED), 8888),
             operator_addr: SocketAddr::new(IpAddr::V4(Ipv4Addr::LOCALHOST), 5555),
         }
     }

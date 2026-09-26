@@ -1,7 +1,10 @@
-use std::io::Result;
+use std::{io::Result, net::SocketAddr};
+
+use clap::Parser;
 
 use crate::{
     agent::Agent,
+    args::Args,
     client::Client,
     config::Config,
     handler::{task_execute, task_handler},
@@ -10,6 +13,7 @@ use crate::{
 };
 
 mod agent;
+mod args;
 mod client;
 mod config;
 mod handler;
@@ -20,8 +24,12 @@ mod types;
 
 #[tokio::main]
 async fn main() -> Result<()> {
+    let args = Args::parse();
+    let server_addr = format!("{}:8888", args.server)
+        .parse::<SocketAddr>()
+        .unwrap();
     // load config
-    let config = Config::new();
+    let config = Config::new(server_addr);
 
     println!("Config: {:?}", config);
 
