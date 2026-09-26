@@ -1,0 +1,14 @@
+/home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/deps/thiserror-155172dce7ee90e0.d: /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/build/thiserror-5b7d5a17855dfd6b/out/private.rs
+
+/home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/deps/libthiserror-155172dce7ee90e0.rlib: /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/build/thiserror-5b7d5a17855dfd6b/out/private.rs
+
+/home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/deps/libthiserror-155172dce7ee90e0.rmeta: /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/build/thiserror-5b7d5a17855dfd6b/out/private.rs
+
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/build/thiserror-5b7d5a17855dfd6b/out/private.rs:
+
+# env-dep:OUT_DIR=/home/kelvinhuynh/Documents/rust/C2/c2-operator/target/release/build/thiserror-5b7d5a17855dfd6b/out

@@ -1,0 +1,14 @@
+/home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/deps/serde-a9385c824cf1c8a0.d: /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/build/serde-83bd76a5d861502a/out/private.rs
+
+/home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/deps/libserde-a9385c824cf1c8a0.rlib: /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/build/serde-83bd76a5d861502a/out/private.rs
+
+/home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/deps/libserde-a9385c824cf1c8a0.rmeta: /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/build/serde-83bd76a5d861502a/out/private.rs
+
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/kelvinhuynh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/build/serde-83bd76a5d861502a/out/private.rs:
+
+# env-dep:OUT_DIR=/home/kelvinhuynh/Documents/rust/C2/c2-server/target/release/build/serde-83bd76a5d861502a/out

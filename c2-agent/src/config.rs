@@ -14,7 +14,7 @@ pub struct Config {
 impl Config {
     pub fn new() -> Self {
         Self {
-            server_addr: SocketAddr::new(std::net::IpAddr::V4(Ipv4Addr::new(172, 20, 10, 5)), 8888),
+            server_addr: SocketAddr::new(std::net::IpAddr::V4(Ipv4Addr::new(127, 0, 0, 1)), 8888),
             reconnect_delay: Duration::from_secs(5),
             heartbeat_interval: Duration::from_secs(5),
             task_delay: Duration::from_millis(100),
